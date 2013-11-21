@@ -35,4 +35,5 @@ https://maps.google.ru/maps?q=22.234327+113.58507&t=h&z=16
 
 ### Or try any other map, that uses WGS84:
 (use sattelite maps)
+
 http://toolserver.org/~geohack/geohack.php?language=ru&params=22.234327_N_113.58507_E_
