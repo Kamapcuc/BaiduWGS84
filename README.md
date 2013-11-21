@@ -31,7 +31,7 @@ Here is the script, that transforms Google coordinates to Baidu coordinates.
 </script>
 ````
 ### Here you can check, that result is correct:
-https://maps.google.ru/maps?q=22.234327+113.58507
+https://maps.google.ru/maps?q=22.234327+113.58507&t=h&z=16
 
 ### Or try any other map, that uses WGS84:
 http://toolserver.org/~geohack/geohack.php?language=ru&params=22.234327_N_113.58507_E_
