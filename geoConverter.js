@@ -1,3 +1,4 @@
+// NO WARRANTY OR GUARANTEE
 
 var pi = 3.14159265358979324;
 var x_pi = pi * 3000.0 / 180.0;
