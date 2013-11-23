@@ -1,9 +1,9 @@
 Baidu WGS84
 ===========
 
-There are a lot of publications in internet that Baidu coordinates are wring. 
-People just dont realize, that thre are different positioning sytems.
-Here is the script, that transforms Google coordinates to Baidu coordinates.
+On the Internet there are lots of publications concerning Baidu wrong coordinates. 
+That misunderstanding happens because a lot of different exsisting positioning systems may have different coordinates.
+Here is the script, which transforms Google coordinates to Baidu coordinates.
 
 ### Example, how to use it:
 ````html
@@ -30,11 +30,12 @@ Here is the script, that transforms Google coordinates to Baidu coordinates.
 	map.centerAndZoom(point, 16);
 </script>
 ````
-### Here you can check, that result is correct:
+
+### Here you can check, that the result is correct:
 https://maps.google.ru/maps?q=22.234327+113.58507&t=h&z=16
 
 ### Or try any other map, that uses WGS84:
 http://toolserver.org/~geohack/geohack.php?language=ru&params=22.234327_N_113.58507_E_
 
-### Important note
-If you whant to connect point on Google sttelite view and map, use convertWGS84toGCJ02 function
+### The important note is:
+If you want to match a certain point on Google satelite view to a map view, use convertWGS84toGCJ02 function.
