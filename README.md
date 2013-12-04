@@ -37,5 +37,7 @@ https://maps.google.ru/maps?q=22.234327+113.58507&t=h&z=16
 ### Or try any other map, that uses WGS84:
 http://toolserver.org/~geohack/geohack.php?language=ru&params=22.234327_N_113.58507_E_
 
-### The important note is:
+### Important notes:
 If you want to match a certain point on Google satelite view to a map view, use convertWGS84toGCJ02 function.
+
+Different versions of Baidu maps API have small differences in algorithms. Those script is for v1.3.
