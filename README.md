@@ -41,3 +41,7 @@ http://toolserver.org/~geohack/geohack.php?language=ru&params=22.234327_N_113.58
 If you want to match a certain point on Google satelite view to a map view, use convertWGS84toGCJ02 function.
 
 Different versions of Baidu maps API have small differences in algorithms. Those script is for v1.3.
+
+### License:
+
+MIT (free for all, no warranty or guarantee)
